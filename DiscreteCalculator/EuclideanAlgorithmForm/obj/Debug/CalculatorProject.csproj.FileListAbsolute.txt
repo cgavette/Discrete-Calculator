@@ -1,0 +1,13 @@
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.exe.config
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.exe
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.pdb
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\CalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.BaseForm.resources
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.CalculatorChoice.resources
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.EuclideanAlgorithmForm.resources
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.Properties.Resources.resources
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.exe
+C:\Users\camga\Downloads\C# Code\DiscreteCalculator\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.pdb

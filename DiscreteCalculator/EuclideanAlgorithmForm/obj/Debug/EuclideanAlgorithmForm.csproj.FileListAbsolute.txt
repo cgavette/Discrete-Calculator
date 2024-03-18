@@ -1,0 +1,11 @@
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.exe.config
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.exe
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\bin\Debug\EuclideanAlgorithmForm.pdb
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.csproj.AssemblyReference.cache
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.Properties.Resources.resources
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.csproj.GenerateResource.cache
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.csproj.CoreCompileInputs.cache
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.exe
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.pdb
+C:\Users\camga\Downloads\C# Code\EuclideanAlgorithmForm\EuclideanAlgorithmForm\obj\Debug\EuclideanAlgorithmForm.CalculatedForm.resources
